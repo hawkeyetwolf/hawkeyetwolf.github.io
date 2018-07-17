@@ -12,7 +12,7 @@
 
 ## about:hawkeye
 
-A few things about me: I enjoy cycling and working on my steel-framed Salsa Pistola. I like writing in my journal; it helps me sort out how I'm feeling about things. I love reading fiction but only do so occasionally because, once I start, I have trouble putting it down. I listen to history podcasts, streaming episode after episode while working in the yard. I own a home in Chattanooga, TN and find pleasure in many of the mundane tasks I once swore-off as a teenager. I am an uncle twice over. I crowdsource beautiful chillstep playlists via Hype Machine, 8tracks, and IndieShuffle.
+A few things about me: I enjoy cycling and working on my steel-framed Salsa Pistola. I like writing in my journal; it helps me sort out how I’m feeling about things. I love reading fiction but only do so occasionally because, once I start, I have trouble putting it down. I listen to history podcasts, mostly while working in the yard. I own a home in Chattanooga, TN and find pleasure in many of the mundane tasks I once swore-off as a teenager. I am an uncle twice over. I crowdsource beautiful chillstep playlists via Hype Machine, 8tracks, and IndieShuffle.
 
 My primary code editors are **vim** and the GitHub interface. I am proudly not a full-stack developer but enjoy learning at all the levels. I am big on **git hygiene**. I geek out on hunting down and finding creative, efficient solutions to canceling technical debt. I take great pleasure in writing and reviewing elegant, **object-oriented** code. I am an expert in **Paragraphs** and **component-based Drupal integrations** but look forward to building new UX tools on top of Layout Builder ([Inline Blocks](https://www.drupal.org/project/drupal/issues/2957425) coming in Drupal 8.6+).
 
@@ -59,11 +59,11 @@ Launched one of the first public-facing Drupal 8 sites at Kalamuna.
 
 ## Drupal 8 code samples
 
-[**Vision API proof-of-concept in collaboration with Google and Pantheon**](https://gitlab.com/hawkeyetwolf/visionapi/tree/master/web/modules/custom/visionapi)
-Google public webinar demo [forthcoming](https://pantheon.io/resources/artificial-intelligence-your-cms).
+[**Google Vision API + Content Moderation**](https://gitlab.com/hawkeyetwolf/visionapi/tree/master/web/modules/custom/visionapi)
+Explore the module found at the GitLab link above to see how I integrated Google Vision API with Content Moderation. Public webinar demo [forthcoming](https://pantheon.io/resources/artificial-intelligence-your-cms).
 
-[**drupal-project**](https://github.com/kalamuna/drupal-project) and [**Kalaconfig**](https://github.com/kalamuna/kalaconfig)
-Composer template and custom module that combine to provide a robust starting point for new projects. It saves 10's of hours of initial configuration and continues providing value throughout the life of the project by providing config splits for each environment (local, dev, test, prod).
+[**drupal-project**](https://github.com/kalamuna/drupal-project) and [**kalaconfig**](https://github.com/kalamuna/kalaconfig)
+Composer template and custom module that combine to provide a robust starting point for new projects. It saves 10's of hours of initial configuration and continues demonstrating value throughout the life of the project by automating config splits for each environment (local, dev, test, prod).
 
 [**Kalagraphs**](https://github.com/kalamuna/kalagraphs)
 Facilitates rapid development of components from a styleguide (e.g., kss or Pattern Lab) to implementation (Drupal via Paragraphs).
@@ -104,16 +104,16 @@ Implemented the outcomes of a complete brand redesign. Created the first version
 Leveraged the [Groups](https://www.drupal.org/project/group) module to support just the right amount of subsite content flexibility and custom branding.
 
 **Weather.com** (2015)
-Solved a major pain point for The Weather Channel by creating a flexible, easy-to-use editorial experience for their global team of editors. Overcame tight deadlines and shifting priorities to deliver a highly performant and reliable web presence. Gained a depth of experience in ***migration*** of legacy content, ***Batch*** + ***Queue*** API implementations, ***AngularJS*** mods, ***ESI*** routing, ***Panels*** plumbing, ***i18n***, Entity ***Translation***, and ***WYSIWYG*** rich media (embeddable entities).
+Crafted a suite of editorial tools to support The Weather Channel's global team of editors. Configured Drupal to provide a highly-cachable base page with ESI tags that delivered personalized weather content from the edge. Gained experience in ***migration*** of legacy content, ***Batch + Queue API*** processing, Panels plumbing, ***i18n*** (internationalization), Entity ***Translation***, and WYSIWYG rich media (embeddable entities).
 
 **Habitat for Humanity** (2015)
-Worked to build client trust by first showing success with a few small engagements. Provided training to empower their development team. Implemented a "content server" workflow to allow their editors to build content in one environment then deploy it to production. Successfully established a strong working relationship that set up the organization for success in a full redesign.
+Worked to build client trust by first showing success with a few small engagements. Provided training to empower their development team. Implemented a "content server" workflow to allow their editors to stage content in one environment then deploy it to production. Successfully established a strong working relationship that set up the organization for success in a full redesign.
 
 **Georgia Tech Research Institute** (2015)
-Led a team in building a secure intranet that facilitates departmental communication, compliance, and organizational cohesion. Utilized installation profiles and programmatic content creation to standardize the team's development environments.
+Led a team in building an intranet to faciltate inter-departmental communication and compliance. Utilized installation profiles and programmatic content creation to standardize the team’s development environments in lieu of passing around databases with sensitive data.
 
 [**Emory University, Tetramer Core Facility**](http://tetramer.yerkes.emory.edu) (2014)
-Streamlined the client's workflow by automating and streamlining their order intake process with a ***Drupal Commerce*** implementation. Built an object-oriented, fail-safe, bi-directional synchronization framework to keep the website up to date with the staff's FileMaker database.
+Streamlined the client’s unit production workflow with a ***Drupal Commerce*** implementation to automate their order intake process. Built an object-oriented, bi-directional synchronization framework to keep their website up to date with the staff’s FileMaker database.
 
 
 ---
