@@ -41,7 +41,7 @@ Implemented WCAG 2.0 **accessibility** standards that achieved a SiteImprove sco
 Collaborated with Google and Pantheon to demonstrate the capabilities of Google Vision in a Drupal environment. Not much to see in the demo site above; check out the source (see "code samples" below) or request an authenticated-user walk-through.
 
 [**City and County of San Francisco Human Services Agency**](https://www.sfhsa.org/) (2017)
-Led a multidisciplinary team that included client developers.
+Led a multi-disciplinary team that included client developers.
 
 [**Fair Trade USA**](https://www.fairtradecertified.org/) (2017)
 Executed a website redesign that included Salesforce integration points.
@@ -110,7 +110,7 @@ Crafted a suite of editorial tools to support The Weather Channel's global team 
 Worked to build client trust by first showing success with a few small engagements. Provided training to empower their development team. Implemented a "content server" workflow to allow their editors to stage content in one environment and then deploy it to production. Successfully established a strong working relationship that set up the organization for success in a full redesign.
 
 **Georgia Tech Research Institute** (2015)
-Led a team in building an intranet to faciltate inter-departmental communication and compliance. Utilized installation profiles and programmatic content creation to standardize the team’s development environments in lieu of passing around databases with sensitive data.
+Led a team in building an intranet to facilitate inter-departmental communication and compliance. Utilized installation profiles and programmatic content creation to standardize the team’s development environments in lieu of passing around databases with sensitive data.
 
 [**Emory University, Tetramer Core Facility**](http://tetramer.yerkes.emory.edu) (2014)
 Streamlined the client’s unit production workflow with a ***Drupal Commerce*** implementation that automated their order intake process. Built an object-oriented, bi-directional synchronization framework to keep their website up to date with the staff’s FileMaker database.
