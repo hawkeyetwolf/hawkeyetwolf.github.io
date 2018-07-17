@@ -38,7 +38,7 @@ _December 2008_
 Implemented WCAG 2.0 **accessibility** standards that achieved a SiteImprove score close to 100 and saved the client from pending lawsuits. The project also represented a big leap forward in **editorial UX** for our team, having learned much from the pain points of previous D8 + Paragraphs implementations.
 
 [**Google Vision API + Content Moderation**](http://live-visionapi.at.kalamuna.com/) (2018)
-Collaborated with Google and Pantheon to demonstrate the capabilities of Google Vision in a Drupal environment. Not much to see in the demo site above; check out the code sample (see "code samples" below) or request an authenticated-user walk-through.
+Collaborated with Google and Pantheon to demonstrate the capabilities of Google Vision in a Drupal environment. Not much to see in the demo site above; check out the source (see "code samples" below) or request an authenticated-user walk-through.
 
 [**City and County of San Francisco Human Services Agency**](https://www.sfhsa.org/) (2017)
 Led a multidisciplinary team that included client developers.
@@ -95,7 +95,7 @@ This fork of Drupal VM supported both client and vendor team members through sev
 ## Other noteworthy projects
 
 [**Fine Arts Museum of San Francisco "Insights"**](https://insights.famsf.org/) (2018)
-When the client's budget and priorities did not allow for a Drupal back-end, we worked with their existing technical staff to create a yaml-based content solution. This empowered our team to focus on delivering the front-end experience FAMSF desired while providing just the right amount of content flexibility. Hosted as a static website on Netlify.
+When the client's budget and priorities did not allow for a Drupal back-end, we worked with their technical staff to create a yaml-based content solution. This empowered our team to focus on delivering the front-end experience FAMSF desired while providing just the right amount of content flexibility. Hosted as a static website on Netlify.
 
 [**Progenity.com**](https://www.progenity.com/) (2017)
 Implemented the outcomes of a complete brand redesign. Created the first version of Kalagraphs (see "code samples" above).
@@ -107,13 +107,13 @@ Leveraged the [Groups](https://www.drupal.org/project/group) module to support j
 Crafted a suite of editorial tools to support The Weather Channel's global team of editors. Configured Drupal to provide a highly-cachable base page with ESI tags that delivered personalized weather content from the edge. Gained experience in ***migration*** of legacy content, ***Batch + Queue API*** processing, Panels plumbing, ***i18n*** (internationalization), Entity ***Translation***, and WYSIWYG rich media (embeddable entities).
 
 **Habitat for Humanity** (2015)
-Worked to build client trust by first showing success with a few small engagements. Provided training to empower their development team. Implemented a "content server" workflow to allow their editors to stage content in one environment then deploy it to production. Successfully established a strong working relationship that set up the organization for success in a full redesign.
+Worked to build client trust by first showing success with a few small engagements. Provided training to empower their development team. Implemented a "content server" workflow to allow their editors to stage content in one environment and then deploy it to production. Successfully established a strong working relationship that set up the organization for success in a full redesign.
 
 **Georgia Tech Research Institute** (2015)
 Led a team in building an intranet to faciltate inter-departmental communication and compliance. Utilized installation profiles and programmatic content creation to standardize the team’s development environments in lieu of passing around databases with sensitive data.
 
 [**Emory University, Tetramer Core Facility**](http://tetramer.yerkes.emory.edu) (2014)
-Streamlined the client’s unit production workflow with a ***Drupal Commerce*** implementation to automate their order intake process. Built an object-oriented, bi-directional synchronization framework to keep their website up to date with the staff’s FileMaker database.
+Streamlined the client’s unit production workflow with a ***Drupal Commerce*** implementation that automated their order intake process. Built an object-oriented, bi-directional synchronization framework to keep their website up to date with the staff’s FileMaker database.
 
 
 ---
@@ -122,17 +122,18 @@ Streamlined the client’s unit production workflow with a ***Drupal Commerce***
 
 | Title                                                              | Location                                   | Year | Links
 |--------------------------------------------------------------------|--------------------------------------------|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Using "**drupal-project**" with Composer to Craft your Perfect Start-State | DrupalCamp Florida<br>DrupalCamp Chattanooga<br>DrupalCamp Asheville | 2018 | [session](https://www.drupalasheville.com/2018/session/how-using-drupal-project-composer-craft-your-perfect-start-state) | [slides](https://slides.com/derekderaps/drupal-project)
-| Design- & Content-First **Prototyping** with **Kalastatic**        | DrupalCamp Florida                         | 2016 | [session](https://www.fldrupal.camp/sessions/approved/florida-drupalcamp-2016/design-theming-front-end-development/rapid-prototyping) &#124; [slides](https://docs.google.com/presentation/d/120IdD69J4xULVrVvYmsRzCSjk_yRiSsWQqatod3o1io)
-| **Drupal 8** and **Symfony2**: Not so scary!                       | DrupalCamp Atlanta<br>DrupalCamp Asheville | 2015 | [session](http://drupalcampatlanta.com/2015-drupalcamp-atlanta/sessions/drupal-8-and-symfony2-not-so-scary) &#124; [slides](http://slides.com/derekderaps/d8#/)
+| Using "**drupal-project**" with Composer to Craft your Perfect Start-State | DrupalCamp Florida<br>DrupalCamp Chattanooga<br>DrupalCamp Asheville | 2018 | [session](https://www.drupalasheville.com/2018/session/how-using-drupal-project-composer-craft-your-perfect-start-state), [slides](https://slides.com/derekderaps/drupal-project)
+| When "Good" Is Good Enough: How Perfectionism Is Holding You Back  | DrupalCon Dublin                           | 2016 | [session](https://events.drupal.org/dublin2016/sessions/when-good-good-enough-how-perfectionism-holding-you-back)
+| Design- & Content-First **Prototyping** with **Kalastatic**        | DrupalCamp Florida                         | 2016 | [session](https://www.fldrupal.camp/sessions/approved/florida-drupalcamp-2016/design-theming-front-end-development/rapid-prototyping), [slides](https://docs.google.com/presentation/d/120IdD69J4xULVrVvYmsRzCSjk_yRiSsWQqatod3o1io)
+| **Drupal 8** and **Symfony2**: Not so scary!                       | DrupalCamp Atlanta<br>DrupalCamp Asheville | 2015 | [session](http://drupalcampatlanta.com/2015-drupalcamp-atlanta/sessions/drupal-8-and-symfony2-not-so-scary), [slides](http://slides.com/derekderaps/d8#/)
 | Layout Nirvana with **Classy Panels Styles**                       | DrupalCamp Atlanta                         | 2014 | [session](http://drupalcampatlanta.com/2014-drupalcamp-atlanta/sessions/layout-nirvana-classy-panel-styles)
 | Classy Panel Styles                                                | DrupalCamp Florida                         | 2014 |
 | Workflow Tools                                                     | Atlanta Drupal User Group                  | 2014 |
 | A Drupal 8 Vocab Lesson                                            | Mediacurrent webinar                         | 2013 | [session](https://www.mediacurrent.com/blog/intro-drupal-8-vocabulary)
 | Drupal 8: Moving from **Features** to **Configuration Management** | Mediacurrent webinar                         | 2013 |
-| Use **Workflow Tools** to Deploy your Content                      | DrupalCamp Atlanta                         | 2013 | [session](https://www.mediacurrent.com/blog/using-workflow-tools-deploy-your-content-and-code) &#124; [slides](http://www.slideshare.net/mediacurrent/dcatl-2013-wf-tools-presentation)
+| Use **Workflow Tools** to Deploy your Content                      | DrupalCamp Atlanta                         | 2013 | [session](https://www.mediacurrent.com/blog/using-workflow-tools-deploy-your-content-and-code), [slides](http://www.slideshare.net/mediacurrent/dcatl-2013-wf-tools-presentation)
 | Better Local Development with **Vagrant**                          | DrupalCamp Chattanooga                     | 2013 | [session](https://www.mediacurrent.com/blog/better-local-development-vagrant)
-| **FileMaker** & Drupal                                             | DrupalCamp Florida                         | 2013 | [session](http://2013.fldrupalcamp.org/session/case-study-integration-filemaker-and-drupal) &#124; [slides](http://www.slideshare.net/mediacurrent/filemakerdrupal-synchronization)
+| **FileMaker** & Drupal                                             | DrupalCamp Florida                         | 2013 | [session](http://2013.fldrupalcamp.org/session/case-study-integration-filemaker-and-drupal), [slides](http://www.slideshare.net/mediacurrent/filemakerdrupal-synchronization)
 
 
 ---
