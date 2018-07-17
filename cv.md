@@ -32,7 +32,7 @@ _December 2008_
 
 ## Drupal 8 projects
 
-_Architect and lead developer_
+#### _Architect and lead developer_
 
 [**San Jose Water**](https://www.sjwater.com/) (2018)
 Implemented WCAG 2.0 **accessibility** standards that achieved a SiteImprove score close to 100 and saved the client from pending lawsuits. The project also represented a big leap forward in **editorial UX** for our team, having learned much from the pain points of previous D8 + Paragraphs implementations.
@@ -49,7 +49,7 @@ Executed a website redesign that included Salesforce integration points.
 [**UCSF School of Dentistry**](https://dentistry.ucsf.edu/) (2017)
 Migrated legacy content. Ported Kalagraphs (see "code samples" below) from Drupal 7 to Drupal 8.
 
-_Drupal 8 expertise consultant_
+#### _Drupal 8 expertise consultant_
 
 [**Kalamuna.com blog**](https://blog.kalamuna.com) (2016)
 Launched one of the first public-facing Drupal 8 sites at Kalamuna.
