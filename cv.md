@@ -40,9 +40,6 @@ Implemented WCAG 2.0 **accessibility** standards that achieved a SiteImprove sco
 [**Google Vision API + Content Moderation**](http://live-visionapi.at.kalamuna.com/) (2018)
 Collaborated with Google and Pantheon to demonstrate the capabilities of Google Vision in a Drupal environment. Not much to see in the demo site above; check out the source (see "code samples" below) or request an authenticated-user walk-through.
 
-[**City and County of San Francisco Human Services Agency**](https://www.sfhsa.org/) (2017)
-Led a multi-disciplinary team that included client developers.
-
 [**Fair Trade USA**](https://www.fairtradecertified.org/) (2017)
 Executed a website redesign that included Salesforce integration points.
 
@@ -96,6 +93,9 @@ This fork of Drupal VM supported both client and vendor team members through sev
 
 [**Fine Arts Museum of San Francisco "Insights"**](https://insights.famsf.org/) (2018)
 When the client's budget and priorities did not allow for a Drupal back-end, we worked with their technical staff to create a yaml-based content solution. This empowered our team to focus on delivering the front-end experience FAMSF desired while providing just the right amount of content flexibility. Hosted as a static website on Netlify.
+
+[**City and County of San Francisco Human Services Agency**](https://www.sfhsa.org/) (2017)
+Led a multi-disciplinary team that included client developers.
 
 [**Progenity.com**](https://www.progenity.com/) (2017)
 Implemented the outcomes of a complete brand redesign. Created the first version of Kalagraphs (see "code samples" above).
